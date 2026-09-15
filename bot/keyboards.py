@@ -1,7 +1,7 @@
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-PAGE_SIZE = 8
+PAGE_SIZE = 15
 
 DAYS = [
     ("Mn", "Dushanba"),
